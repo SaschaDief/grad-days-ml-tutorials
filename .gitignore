@@ -1,0 +1,11 @@
+# Whitelist: everything is ignored unless listed below, so lecture notes,
+# solutions and planning files can never end up in the public repository.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!qr_code.png
+!*/
+
+# released notebooks (add the next day's exercise / solutions here)
+!Day1_Intro_and_Classifiers/Day1_Tutorial_Exercise.ipynb

@@ -1,0 +1,7 @@
+# Environment for running the notebooks on mybinder.org (Colab has these pre-installed, except nflows).
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+numpy
+matplotlib
+scikit-learn
+nflows
